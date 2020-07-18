@@ -17,4 +17,4 @@ The following principles guide decisions for design and development of this proj
   - Usability: it may be good to sacrifice some flexibility, so that end-users have an easy time
   - Pythonic code: e.g. follow the [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
  - Other Principles:
-  - Well documented: follow well-documented Django conventions
+   - Well documented: follow well-documented Django conventions
